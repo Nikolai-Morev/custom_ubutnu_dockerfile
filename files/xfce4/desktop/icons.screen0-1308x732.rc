@@ -1,0 +1,11 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[Корзина]
+row=5
+col=11
+
+[/home/morev]
+row=0
+col=0
+
